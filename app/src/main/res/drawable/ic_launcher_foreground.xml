@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Shadow element -->
+    <path
+        android:fillColor="#3D000000"
+        android:pathData="M18,92 L90,92 L90,94 L18,94 Z" />
+    
+    <!-- Primary Canopy Roof (Festive triangular marquee tent) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,72 L84,72 L54,26 Z" />
+    
+    <!-- Accent Roof Stripe -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M34,72 L74,72 L54,38 Z" />
+    
+    <!-- Left Pillar supporting tent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,72 L32,72 L32,92 L26,92 Z" />
+        
+    <!-- Right Pillar supporting tent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,72 L82,72 L82,92 L76,92 Z" />
+
+    <!-- Center decorative arch curtain (Entrance) -->
+    <path
+        android:fillColor="#FCA5A5"
+        android:pathData="M38,92 C38,78 70,78 70,92 Z" />
+        
+    <!-- Main Center entrance gap -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M44,92 C44,84 64,84 64,92 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Sonu Tent House",
+  "description": "Worker attendance, wages, advance payments, expenses, and management system for Sonu Tent House.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
